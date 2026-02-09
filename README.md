@@ -6,4 +6,4 @@
 +Clase Semana 1
 +Clase Semana 2
 +Clase Semana 3
-+Clase Semana 4
++Clase Semana 4 :paperclip: 09/02/2026
