@@ -1,0 +1,19 @@
+#23/02/26
+#MAGT
+
+INGRESAR DATOS R
+
+Altura <- c(156, 187, 178, 168, 173, 175)
+
+set.seed(123)
+Altura <-sample(x=160:185, size = 50, replace = TRUE)
+mean(Altura)
+var(Altura)
+
+stem(Altura)
+
+
+boxplot(Altura)
+
+
+shapiro.test(Altura)
