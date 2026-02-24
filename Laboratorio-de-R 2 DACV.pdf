@@ -17,3 +17,4 @@ boxplot(Altura)
 
 
 shapiro.test(Altura)
+
