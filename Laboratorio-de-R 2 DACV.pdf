@@ -16,5 +16,6 @@ stem(Altura)
 boxplot(Altura)
 
 
-shapiro.test(Altura)
+shapiro.test (Altura)
+
 
